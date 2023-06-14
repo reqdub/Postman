@@ -125,7 +125,7 @@
 - age: int
 - salary: int
 
-    response:
+### Response:
     {'name': name,
      'age': int(age),
      'salary': [salary, str(salary * 2), str(salary * 3)]
@@ -142,7 +142,7 @@
 - age: int
 - salary: int
 
-    response:
+### Response:
     {
     'start_qa_salary': salary,
     'qa_salary_after_6_months': salary * 2,
