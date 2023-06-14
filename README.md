@@ -126,7 +126,8 @@
 - salary: int
 
 ### Response:
-    {'name': name,
+    {
+     'name': name,
      'age': int(age),
      'salary': [salary, str(salary * 2), str(salary * 3)]
     }
