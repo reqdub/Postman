@@ -9,10 +9,10 @@
 - age: int
 
 ### Response:
-[
-    “Aleksey”,
-    “30”
-]
+            [
+                “Aleksey”,
+                “30”
+            ]
 
 ---
 
