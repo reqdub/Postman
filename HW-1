@@ -1,9 +1,7 @@
-Homework to the first Postman lesson - Vadim Ksendzov's course
-Создать запросы в Postman
-Protocol: http, IP: 162.55.220.72, Port: 5005
+162.55.220.72, Port: 5006
 
-    EP_1
-Method: GET
+    Endpoint #1
+### Method: GET
 
 EndPoint: /get_method
 
